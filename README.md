@@ -69,13 +69,4 @@ Additionally, the presence of **frequent "tech talk"** across all groups showed 
 
 This study reinforced how **language patterns, human interactions, and topics evolve over time**, but certain themes—like **technology's role in society**—remain just as relevant today as they were back then.
 
----
-### Repository Contents:
-✔️ **Data processing scripts**
-✔️ **Analysis reports**
-✔️ **Visualization outputs**
-✔️ **Final conclusions and insights**
-
-For any suggestions or discussions, feel free to open an **issue** or contribute via **pull requests**! 🚀
-```
 

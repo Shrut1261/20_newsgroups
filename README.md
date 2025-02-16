@@ -66,7 +66,3 @@ Through this project, I explored **how technology, science, and politics were di
 - **Political discussions** (talk.politics.misc) carried a more negative sentiment, reflecting debate-driven conversations.
 
 Additionally, the presence of **frequent "tech talk"** across all groups showed that even in the 1990s, discussions about technology's future were widespread. 
-
-This study reinforced how **language patterns, human interactions, and topics evolve over time**, but certain themes—like **technology's role in society**—remain just as relevant today as they were back then.
-
-
